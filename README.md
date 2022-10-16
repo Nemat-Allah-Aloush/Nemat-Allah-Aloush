@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👋 I’m Nemat ALOUSH
-- :computer: A data scientist with a Python stack
-<!-- - :mortar_board: Graduated at the top of my class, with a bachelor's degree in Software Engineering -->
-- 🌱 I am currently perusing a master’s degree in Machine Learning and Big Data Analysis
-- :briefcase: I am currently trying to find my path towards a data science career, suggestions are welcomed.
+- 👋 It's Nemat ALOUSH
+- :computer: A data scientist with Python and SQL stack.
+- :mortar_board: Graduated in the top 10% of my class, with a bachelor's degree in Software Engineering. 
+- 🌱 Soon-to-be grad with Master’s degree in Applied Mathematics and Informatic, particullary in Machine Learning and Big Data Analysis.
+- :briefcase: Currently trying to find my path towards a data science career, suggestions are welcomed.
 - 📫 How to reach me : nemat.aloush@gmail.com, [LinkedIn](https://www.linkedin.com/in/nemat-aloush/)
 - :globe_with_meridians: Check out my [portfolio](https://nemat-allah-aloush.github.io/). 
