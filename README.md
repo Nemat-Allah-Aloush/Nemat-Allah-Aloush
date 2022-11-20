@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👋 It's Nemat ALOUSH
+- 👋 It's Nemat Aloush
 - :computer: A data scientist with Python and SQL stack.
 - :mortar_board: Graduated in the top three of my class, with a bachelor's degree in Software Engineering. 
 - 🌱 Soon-to-be graduated with Master’s degree in Applied Mathematics and Informatic, particullary in Machine Learning and Big Data Analysis.
