@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 - 👋 It's Nemat Aloush
 - :computer: A data scientist with Python and SQL stack.
-- :mortar_board: Graduated in the top three of my class, with a bachelor's degree in Software Engineering. 
+- :mortar_board: I have a background in Software Engineering, thanks to my Bachelor's degree. 
 - 🌱 Soon-to-be graduated with Master’s degree in Applied Mathematics and Informatic, particullary in Machine Learning and Big Data Analysis.
-- :briefcase: Currently trying to find my path towards a data science career, suggestions are welcomed.
+- :briefcase: Currently trying to find my path towards a data science career.
 - 📫 How to reach me : nemat.aloush@gmail.com, [LinkedIn](https://www.linkedin.com/in/nemat-aloush/)
 - :globe_with_meridians: Check out my [portfolio](https://nemat-allah-aloush.github.io/). 
